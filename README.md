@@ -7,6 +7,7 @@ https://gist.github.com/Andreas-Zocom/3a5e73bbdb22a1dfbcc4eb78449370fe
 ## Artiklar
 
 Vad är pseudokod: https://kinsta.com/se/kunskapsbas/vad-ar-pseudokod/
+
 CSS grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ## Videor
